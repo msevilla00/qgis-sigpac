@@ -12,4 +12,4 @@ def main(url: str):
     return dataset_url
 
 if __name__ == "__main__":
-    main("https://www.fega.gob.es/atom/es.fega.sigpac.ld.2024.xml")
+    main("https://www.fega.gob.es/atom/es.fega.sigpac.rec.2026.xml")
